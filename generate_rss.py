@@ -42,11 +42,11 @@ def create_rss_feed(feed_info, items):
         if 'publicationStartDate' in item_data:
             try:
                 # If pubDate is ISO format, convert to RFC 822
-                pre_date_obj = item_data['publicationStartDate'].replace('T', '+00:00')
+                pre_date_obj = item_data['publicationStartDate']+'Z'
                 date_obj = datetime.fromisoformat(pre_date_obj)
                 SubElement(item, 'pubDate').text = date_obj.strftime('%a, %d %b %Y %H:%M:%S GMT')
             except:
-                SubElement(item, 'pubDate').text = item_data['pubDate']
+                SubElement(item, 'pubDate').text = item_data['publicationStartDate']
         
         # Add GUID (use link if not provided)
         guid_text = item_data.get('guid', item_data.get('additionalContentUrl', ''))
