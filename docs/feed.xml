@@ -1,22 +1,37 @@
+<?xml version="1.0" ?>
 <rss version="2.0">
-<channel>
-<title>House of Commons Select Committee Reports</title>
-<link>https://committees.parliament.uk/publications/</link>
-<description>Latest reports from House of Commons select committees</description>
-<lastBuildDate>Tue, 13 Jan 2026 16:22:16 GMT</lastBuildDate>
-<item>
-<title>44th report - Children’s Wellbeing and Schools Bill: Government Response</title>
-<link/>
-<description/>
-<pubDate>Fri, 09 Jan 2026 13:00:00 GMT</pubDate>
-<guid/>
-</item>
-<item>
-<title>60th Report - DWP follow-up: Autumn 2025</title>
-<link/>
-<description/>
-<pubDate>Fri, 09 Jan 2026 00:01:00 GMT</pubDate>
-<guid/>
-</item>
-</channel>
+  <channel>
+    <title>House of Commons Select Committee Reports</title>
+    <link>https://committees.parliament.uk/publications/</link>
+    <description>Latest reports from House of Commons select committees</description>
+    <lastBuildDate>Wed, 14 Jan 2026 16:16:40 GMT</lastBuildDate>
+    <item>
+      <title>17th Report - Pension Schemes Bill</title>
+      <link>https://publications.parliament.uk/pa/ld5901/ldselect/ldconst/246/24602.htm</link>
+      <description/>
+      <pubDate>Tue, 13 Jan 2026 17:30:00 GMT</pubDate>
+      <guid>https://publications.parliament.uk/pa/ld5901/ldselect/ldconst/246/24602.htm</guid>
+    </item>
+    <item>
+      <title>16th Report - English Devolution and Community Empowerment Bill</title>
+      <link>https://publications.parliament.uk/pa/ld5901/ldselect/ldconst/245/24502.htm</link>
+      <description/>
+      <pubDate>Tue, 13 Jan 2026 16:45:00 GMT</pubDate>
+      <guid>https://publications.parliament.uk/pa/ld5901/ldselect/ldconst/245/24502.htm</guid>
+    </item>
+    <item>
+      <title>44th report - Children’s Wellbeing and Schools Bill: Government Response</title>
+      <link>https://publications.parliament.uk/pa/ld5901/ldselect/lddelreg/243/24302.htm</link>
+      <description/>
+      <pubDate>Fri, 09 Jan 2026 13:00:00 GMT</pubDate>
+      <guid>https://publications.parliament.uk/pa/ld5901/ldselect/lddelreg/243/24302.htm</guid>
+    </item>
+    <item>
+      <title>60th Report - DWP follow-up: Autumn 2025</title>
+      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmpubacc/1447/report.html</link>
+      <description/>
+      <pubDate>Fri, 09 Jan 2026 00:01:00 GMT</pubDate>
+      <guid>https://publications.parliament.uk/pa/cm5901/cmselect/cmpubacc/1447/report.html</guid>
+    </item>
+  </channel>
 </rss>
