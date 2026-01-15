@@ -1,111 +1,141 @@
 <?xml version="1.0" ?>
-<rss version="2.0">
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>House of Commons Select Committee Reports</title>
     <link>https://committees.parliament.uk/publications/</link>
     <description>Latest reports from House of Commons select committees</description>
-    <lastBuildDate>Thu, 15 Jan 2026 11:53:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jan 2026 12:10:37 GMT</lastBuildDate>
     <item>
       <title>DWP follow-up: Autumn 2025</title>
-      <description>Public Accounts Committee 60th Report</description>
+      <description>60th Report</description>
+      <author>Public Accounts Committee</author>
+      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Crowned_Portcullis.svg/500px-Crowned_Portcullis.svg.png"/>
       <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmpubacc/1447/report.html</link>
       <pubDate>Fri, 09 Jan 2026 00:01:00 GMT</pubDate>
       <guid>50888</guid>
     </item>
     <item>
       <title>Ministerial Statements and the Ministerial Code</title>
-      <description>Public Administration and Constitutional Affairs Committee 4th Report</description>
+      <description>4th Report</description>
+      <author>Public Administration and Constitutional Affairs Committee</author>
+      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Crowned_Portcullis.svg/500px-Crowned_Portcullis.svg.png"/>
       <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmpubadm/1036/report.html</link>
       <pubDate>Fri, 09 Jan 2026 00:01:00 GMT</pubDate>
       <guid>51003</guid>
     </item>
     <item>
       <title>Ministry of Justice follow-up: Autumn 2025</title>
-      <description>Public Accounts Committee 59th Report</description>
+      <description>59th Report</description>
+      <author>Public Accounts Committee</author>
+      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Crowned_Portcullis.svg/500px-Crowned_Portcullis.svg.png"/>
       <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmpubacc/1240/report.html</link>
       <pubDate>Wed, 07 Jan 2026 00:01:00 GMT</pubDate>
       <guid>50887</guid>
     </item>
     <item>
       <title>Forty-third Report - 3 Statutory Instruments Reported</title>
-      <description>Statutory Instruments (Joint Committee)</description>
+      <description/>
+      <author>Statutory Instruments (Joint Committee)</author>
+      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Crowned_Portcullis.svg/500px-Crowned_Portcullis.svg.png"/>
       <link>https://publications.parliament.uk/pa/jt5901/jtselect/jtstatin/241/report.html</link>
       <pubDate>Fri, 19 Dec 2025 11:00:00 GMT</pubDate>
       <guid>50845</guid>
     </item>
     <item>
       <title>Environment in Focus</title>
-      <description>Environmental Audit Committee 7th Report</description>
+      <description>7th Report</description>
+      <author>Environmental Audit Committee</author>
+      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Crowned_Portcullis.svg/500px-Crowned_Portcullis.svg.png"/>
       <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmenvaud/1310/report.html</link>
       <pubDate>Fri, 19 Dec 2025 00:01:00 GMT</pubDate>
       <guid>50872</guid>
     </item>
     <item>
       <title>Forty-second Report - 1 Statutory Instrument Reported</title>
-      <description>Statutory Instruments (Joint Committee)</description>
+      <description/>
+      <author>Statutory Instruments (Joint Committee)</author>
+      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Crowned_Portcullis.svg/500px-Crowned_Portcullis.svg.png"/>
       <link>https://publications.parliament.uk/pa/jt5901/jtselect/jtstatin/232/report.html</link>
       <pubDate>Fri, 12 Dec 2025 11:00:00 GMT</pubDate>
       <guid>50723</guid>
     </item>
     <item>
       <title>Government services: Identifying costs</title>
-      <description>Public Accounts Committee 58th Report</description>
+      <description>58th Report</description>
+      <author>Public Accounts Committee</author>
+      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Crowned_Portcullis.svg/500px-Crowned_Portcullis.svg.png"/>
       <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmpubacc/1421/report.html</link>
       <pubDate>Fri, 12 Dec 2025 00:01:00 GMT</pubDate>
       <guid>50681</guid>
     </item>
     <item>
       <title>Influencing Code of Conduct investigations</title>
-      <description>Committee on Standards 6th Report</description>
+      <description>6th Report</description>
+      <author>Committee on Standards</author>
+      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Crowned_Portcullis.svg/500px-Crowned_Portcullis.svg.png"/>
       <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmstandards/1571/report.html</link>
       <pubDate>Thu, 11 Dec 2025 09:01:00 GMT</pubDate>
       <guid>50721</guid>
     </item>
     <item>
       <title>Charlie Maynard - Oral evidence</title>
-      <description>Committee on Standards</description>
+      <description/>
+      <author>Committee on Standards</author>
+      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Crowned_Portcullis.svg/500px-Crowned_Portcullis.svg.png"/>
       <link>https://committees.parliament.uk/publications/50700/documents/277778/default/</link>
       <pubDate>Thu, 11 Dec 2025 09:00:00 GMT</pubDate>
       <guid>50700</guid>
     </item>
     <item>
       <title>Charlie Maynard - Written evidence</title>
-      <description>Committee on Standards</description>
+      <description/>
+      <author>Committee on Standards</author>
+      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Crowned_Portcullis.svg/500px-Crowned_Portcullis.svg.png"/>
       <link>https://committees.parliament.uk/publications/50719/documents/277782/default/</link>
       <pubDate>Thu, 11 Dec 2025 09:00:00 GMT</pubDate>
       <guid>50719</guid>
     </item>
     <item>
       <title>Charlie Maynard</title>
-      <description>Committee on Standards 5th Report</description>
+      <description>5th Report</description>
+      <author>Committee on Standards</author>
+      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Crowned_Portcullis.svg/500px-Crowned_Portcullis.svg.png"/>
       <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmstandards/1570/report.html</link>
       <pubDate>Thu, 11 Dec 2025 09:00:00 GMT</pubDate>
       <guid>50720</guid>
     </item>
     <item>
       <title>Dr Neil Shastri-Hurst</title>
-      <description>Committee on Standards 4th Report</description>
+      <description>4th Report</description>
+      <author>Committee on Standards</author>
+      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Crowned_Portcullis.svg/500px-Crowned_Portcullis.svg.png"/>
       <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmstandards/1569/report.html</link>
       <pubDate>Thu, 11 Dec 2025 08:59:00 GMT</pubDate>
       <guid>50709</guid>
     </item>
     <item>
       <title>Dr Neil Shastri-Hurst - written evidence</title>
-      <description>Committee on Standards</description>
+      <description/>
+      <author>Committee on Standards</author>
+      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Crowned_Portcullis.svg/500px-Crowned_Portcullis.svg.png"/>
       <link>https://committees.parliament.uk/publications/50711/documents/277779/default/</link>
       <pubDate>Thu, 11 Dec 2025 08:59:00 GMT</pubDate>
       <guid>50711</guid>
     </item>
     <item>
       <title>Dr Neil Shastri-Hurst - Oral evidence</title>
-      <description>Committee on Standards</description>
+      <description/>
+      <author>Committee on Standards</author>
+      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Crowned_Portcullis.svg/500px-Crowned_Portcullis.svg.png"/>
       <link>https://committees.parliament.uk/publications/50713/documents/277766/default/</link>
       <pubDate>Thu, 11 Dec 2025 08:59:00 GMT</pubDate>
       <guid>50713</guid>
     </item>
     <item>
       <title>Access to the House of Commons and its Procedures</title>
-      <description>Modernisation Committee 1st Report</description>
+      <description>1st Report</description>
+      <author>Modernisation Committee</author>
+      <media:thumbnail url="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Crowned_Portcullis.svg/500px-Crowned_Portcullis.svg.png"/>
       <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmmod/755/report.html</link>
       <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
       <guid>50674</guid>
