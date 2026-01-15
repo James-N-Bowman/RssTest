@@ -1,3 +1,4 @@
+from ast import Sub
 import json
 import urllib.request
 from datetime import datetime
@@ -52,7 +53,10 @@ def create_rss_feed(feed_info, items):
     items: list of dicts with keys: title, link, description, pubDate (ISO format), guid (optional)
     """
     # Create RSS root element
-    rss = Element('rss', version='2.0')
+    rss = Element('rss', {
+        'version': '2.0',
+        'xmlns:media': 'http://search.yahoo.com/mrss/'
+    })
     channel = SubElement(rss, 'channel')
     
     # Add channel elements
@@ -81,12 +85,16 @@ def create_rss_feed(feed_info, items):
         committee = item_data.get('committee', dict())
         committee_name = committee.get('name','')
 
-        rss_description = committee_name + " " +  ordinal
+        rss_description = ordinal
         rss_description = rss_description.strip()
         
         SubElement(item, 'title').text = title
         SubElement(item, 'description').text = rss_description
-        
+        SubElement(item, 'author').text = committee_name
+        thumbnail = SubElement(item, 'media:thumbnail')
+        thumbnail.set('url', 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Crowned_Portcullis.svg/500px-Crowned_Portcullis.svg.png')
+
+
         link_text = ''
 
         if item_data.get('additionalContentUrl', None) != None:
