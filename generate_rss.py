@@ -94,7 +94,7 @@ def create_rss_feed(feed_info, items):
         
         image = SubElement(item, 'enclosure ')
         image.set('type', 'image/png')
-        image.set('url', 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Crowned_Portcullis.svg/500px-Crowned_Portcullis.svg.png')
+        image.set('url', 'https://committees.parliament.uk/dist/opengraph-card.png')
         image.set('length', '123456')
 
 
