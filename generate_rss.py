@@ -54,8 +54,8 @@ def create_rss_feed(feed_info, items):
     """
     # Create RSS root element
     rss = Element('rss', {
-        'version': '2.0',
-        'xmlns:media': 'http://search.yahoo.com/mrss/'
+        'version': '2.0'#,
+        #'xmlns:media': 'http://search.yahoo.com/mrss/'
     })
     channel = SubElement(rss, 'channel')
     
@@ -91,8 +91,11 @@ def create_rss_feed(feed_info, items):
         SubElement(item, 'title').text = title
         SubElement(item, 'description').text = rss_description
         SubElement(item, 'author').text = committee_name
-        thumbnail = SubElement(item, 'media:thumbnail')
-        thumbnail.set('url', 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Crowned_Portcullis.svg/500px-Crowned_Portcullis.svg.png')
+        
+        image = SubElement(item, 'enclosure ')
+        image.set('type', 'image/png')
+        image.set('url', 'https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Crowned_Portcullis.svg/500px-Crowned_Portcullis.svg.png')
+        image.set('length', '123456')
 
 
         link_text = ''
