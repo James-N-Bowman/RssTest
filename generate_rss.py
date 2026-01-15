@@ -1,13 +1,48 @@
 import json
 import urllib.request
 from datetime import datetime
+import re
 from xml.etree.ElementTree import Element, SubElement, tostring
 from xml.dom import minidom
+
 
 def fetch_json_data(api_url):
     """Fetch JSON data from API endpoint"""
     with urllib.request.urlopen(api_url) as response:
         return json.loads(response.read().decode())
+
+def split_report_title(input_string):
+    """
+    Split a report string into ordinal/type and title components.
+    
+    Args:
+        input_string: String like "58th Report - blah blah blah"
+        
+    Returns:
+        tuple: (report_prefix, title) or ("", original_string) if invalid
+    """
+    # Define valid dividers: hyphen, en-dash, em-dash, colon
+    # Using Unicode escape sequences to avoid encoding issues
+    divider_pattern = r'\s*[-\u2013\u2014:]\s*'
+    
+    # Split on any of the valid dividers
+    parts = re.split(divider_pattern, input_string, maxsplit=1)
+    
+    # Check if we got exactly 2 parts
+    if len(parts) != 2:
+        return ("", input_string)
+    
+    left_part = parts[0].strip()
+    right_part = parts[1].strip()
+    
+    # Check if left part matches: ordinal number + "Report" or "Special Report"
+    # Pattern: number + st/nd/rd/th + (optional whitespace) + "Special Report" or "Report"
+    ordinal_pattern = r'^\d+(st|nd|rd|th)\s+(Special\s+)?Report$'
+    
+    if re.match(ordinal_pattern, left_part, re.IGNORECASE):
+        return (left_part, right_part)
+    else:
+        return ("", input_string)
 
 def create_rss_feed(feed_info, items):
     """
@@ -33,10 +68,37 @@ def create_rss_feed(feed_info, items):
     
     # Add items
     for item_data in items:
+        if item_data.get('committee'):
+            if item_data.get('committee').get('house') == 'Lords':
+                continue  # Skip items from House of Lords
+            if item_data.get('committee').get('category'):
+               if item_data.get('committee').get('category').get('name') != 'Select':
+                   continue # Skip non-Select Committee items
         item = SubElement(channel, 'item')
-        SubElement(item, 'title').text = item_data.get('description', '')
-        SubElement(item, 'link').text = item_data.get('additionalContentUrl', '')
-        SubElement(item, 'description').text = item_data.get('actualDescription', '')
+
+        api_description = item_data.get('description', '')
+        ordinal, title = split_report_title(api_description)
+        committee = item_data.get('committee', dict())
+        committee_name = committee.get('name','')
+
+        rss_description = committee_name + " " +  ordinal
+        rss_description = rss_description.strip()
+        
+        SubElement(item, 'title').text = title
+        SubElement(item, 'description').text = rss_description
+        
+        link_text = ''
+
+        if item_data.get('additionalContentUrl', None) != None:
+            link_text = item_data.get('additionalContentUrl', '')
+        
+        elif 'documents' in item_data and len(item_data['documents']) > 0:
+            publication_id = item_data.get('id', None)
+            document_id = item_data['documents'][0].get('documentId', None)
+            if publication_id != None and document_id != None:
+                link_text = f"https://committees.parliament.uk/publications/{publication_id}/documents/{document_id}/default/"
+                                                
+        SubElement(item, 'link').text = link_text
         
         # Parse and format pubDate
         if 'publicationStartDate' in item_data:
@@ -49,7 +111,7 @@ def create_rss_feed(feed_info, items):
                 SubElement(item, 'pubDate').text = item_data['publicationStartDate']
         
         # Add GUID (use link if not provided)
-        guid_text = item_data.get('guid', item_data.get('additionalContentUrl', ''))
+        guid_text = str(item_data.get('id'))
         SubElement(item, 'guid').text = guid_text
     
     return rss
@@ -99,7 +161,7 @@ def generate_rss(api_url, output_file='docs/feed.xml'):
 
 if __name__ == '__main__':
     # Example usage - replace with your API endpoint
-    API_URL = 'https://committees-api.parliament.uk/api/Publications?PublicationTypeIds=1&SortOrder=PublicationDateDescending&Take=4'
+    API_URL = 'https://committees-api.parliament.uk/api/Publications?PublicationTypeIds=1&SortOrder=PublicationDateDescending'
     
 
     generate_rss(API_URL, 'docs/feed.xml')
