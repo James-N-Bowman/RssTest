@@ -154,9 +154,9 @@ def generate_rss(api_url, output_file='docs/feed.xml'):
     
     # Extract feed info and items
     feed_info = {
-        "title": "House of Commons Select Committee Reports",
-        "link": "https://committees.parliament.uk/publications/",
-        "description": "Latest reports from House of Commons select committees"
+        "title": "Defence Committee Reports (House of Commons)",
+        "link": "https://committees.parliament.uk/committee/24/defence-committee/publications/reports-responses/",
+        "description": "Latest reports from House of Commons Defence Select Committee"
     }
     
     items = data.get('items', [])
@@ -172,7 +172,7 @@ def generate_rss(api_url, output_file='docs/feed.xml'):
 
 if __name__ == '__main__':
     # Example usage - replace with your API endpoint
-    API_URL = 'https://committees-api.parliament.uk/api/Publications?PublicationTypeIds=1&SortOrder=PublicationDateDescending&Skip=200'
+    API_URL = 'https://committees-api.parliament.uk/api/Publications?PublicationTypeIds=1&SortOrder=PublicationDateDescending&Take=50&StartDate=2024-07-01&CommitteeId=24'
     
 
     generate_rss(API_URL, 'docs/feed.xml')
