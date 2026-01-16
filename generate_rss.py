@@ -133,7 +133,7 @@ def prettify_xml(elem):
     reparsed = minidom.parseString(rough_string)
     return reparsed.toprettyxml(indent='  ')
 
-def generate_rss(api_url, output_file='docs/feed.xml'):
+def generate_rss(api_url, output_file='docs/defence-feed.xml'):
     """
     Main function to generate RSS feed
     
@@ -175,4 +175,4 @@ if __name__ == '__main__':
     API_URL = 'https://committees-api.parliament.uk/api/Publications?PublicationTypeIds=1&SortOrder=PublicationDateDescending&Take=50&StartDate=2024-07-01&CommitteeId=24'
     
 
-    generate_rss(API_URL, 'docs/defence-committee-report-feed.xml')
+    generate_rss(API_URL, 'docs/defence-feed.xml')
