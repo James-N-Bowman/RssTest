@@ -4,7 +4,25 @@
     <title>House of Commons Select Committee Reports</title>
     <link>https://committees.parliament.uk/publications/</link>
     <description>Latest reports from House of Commons select committees</description>
-    <lastBuildDate>Fri, 16 Jan 2026 10:52:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 11:36:45 GMT</lastBuildDate>
+    <item>
+      <title>Forty-fourth Report - No Statutory Instruments Reported</title>
+      <description/>
+      <author>Statutory Instruments (Joint Committee)</author>
+      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
+      <link>https://publications.parliament.uk/pa/jt5901/jtselect/jtstatin/247/report.html</link>
+      <pubDate>Fri, 16 Jan 2026 11:00:00 GMT</pubDate>
+      <guid>51102</guid>
+    </item>
+    <item>
+      <title>The appointment of Emma Douglas as Chair of the Pensions Regulator</title>
+      <description>6th Report</description>
+      <author>Work and Pensions Committee</author>
+      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
+      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmworpen/1610/report.html</link>
+      <pubDate>Fri, 16 Jan 2026 11:00:00 GMT</pubDate>
+      <guid>51113</guid>
+    </item>
     <item>
       <title>Financial sustainability of children’s care homes</title>
       <description>61st Report</description>
@@ -193,24 +211,6 @@
       <link>https://soundcloud.com/ukparliament/sets/modernisation-committee-report/s-XkvygAzYqxe?si=f62d7f699c664c4aa385a19679b75c63&amp;utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing</link>
       <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
       <guid>50679</guid>
-    </item>
-    <item>
-      <title>Government services: Generating income</title>
-      <description>57th Report</description>
-      <author>Public Accounts Committee</author>
-      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
-      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmpubacc/890/report.html</link>
-      <pubDate>Wed, 10 Dec 2025 00:01:00 GMT</pubDate>
-      <guid>50625</guid>
-    </item>
-    <item>
-      <title>Eleventh Report of Session 2024-26 - No Statutory Instruments Reported</title>
-      <description/>
-      <author>Statutory Instruments (Select Committee)</author>
-      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
-      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmstatin/294-xi/report.html</link>
-      <pubDate>Tue, 09 Dec 2025 11:00:00 GMT</pubDate>
-      <guid>50626</guid>
     </item>
   </channel>
 </rss>
