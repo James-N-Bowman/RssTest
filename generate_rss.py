@@ -172,7 +172,7 @@ def generate_rss(api_url, output_file='docs/feed.xml'):
 
 if __name__ == '__main__':
     # Example usage - replace with your API endpoint
-    API_URL = 'https://committees-api.parliament.uk/api/Publications?PublicationTypeIds=1&SortOrder=PublicationDateDescending&Skip=100'
+    API_URL = 'https://committees-api.parliament.uk/api/Publications?PublicationTypeIds=1&SortOrder=PublicationDateDescending&Skip=200'
     
 
     generate_rss(API_URL, 'docs/feed.xml')
