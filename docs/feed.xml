@@ -4,7 +4,25 @@
     <title>House of Commons Select Committee Reports</title>
     <link>https://committees.parliament.uk/publications/</link>
     <description>Latest reports from House of Commons select committees</description>
-    <lastBuildDate>Thu, 15 Jan 2026 23:52:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Jan 2026 03:56:06 GMT</lastBuildDate>
+    <item>
+      <title>Financial sustainability of children’s care homes</title>
+      <description>61st Report</description>
+      <author>Public Accounts Committee</author>
+      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
+      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmpubacc/1233/report.html</link>
+      <pubDate>Fri, 16 Jan 2026 00:01:00 GMT</pubDate>
+      <guid>51065</guid>
+    </item>
+    <item>
+      <title>Register of Interests of Members’ Staff: transitional provisions</title>
+      <description>7th Report</description>
+      <author>Committee on Standards</author>
+      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
+      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmstandards/1629/report.html</link>
+      <pubDate>Fri, 16 Jan 2026 00:01:00 GMT</pubDate>
+      <guid>51117</guid>
+    </item>
     <item>
       <title>DWP follow-up: Autumn 2025</title>
       <description>60th Report</description>
@@ -202,15 +220,6 @@
       <link>https://publications.parliament.uk/pa/jt5901/jtselect/jtrights/1438/report.html</link>
       <pubDate>Tue, 09 Dec 2025 00:00:00 GMT</pubDate>
       <guid>50624</guid>
-    </item>
-    <item>
-      <title>Forty-first Report - 1 Statutory Instrument Reported</title>
-      <description/>
-      <author>Statutory Instruments (Joint Committee)</author>
-      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
-      <link>https://publications.parliament.uk/pa/jt5901/jtselect/jtstatin/226/report.html</link>
-      <pubDate>Fri, 05 Dec 2025 11:00:00 GMT</pubDate>
-      <guid>50585</guid>
     </item>
   </channel>
 </rss>
