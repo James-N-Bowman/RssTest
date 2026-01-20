@@ -133,7 +133,7 @@ def prettify_xml(elem):
     reparsed = minidom.parseString(rough_string)
     return reparsed.toprettyxml(indent='  ')
 
-def generate_rss(api_url, output_file='docs/defence-feed.xml'):
+def generate_rss(api_url, output_file):
     """
     Main function to generate RSS feed
     
@@ -154,9 +154,9 @@ def generate_rss(api_url, output_file='docs/defence-feed.xml'):
     
     # Extract feed info and items
     feed_info = {
-        "title": "Defence Committee Reports (House of Commons)",
-        "link": "https://committees.parliament.uk/committee/24/defence-committee/publications/reports-responses/",
-        "description": "Latest reports from House of Commons Defence Select Committee"
+        "title": "Committee Reports (House of Commons)",
+        "link": "https://committees.parliament.uk/publications/reports-responses/",
+        "description": "Latest reports from House of Commons Select Committees"
     }
     
     items = data.get('items', [])
@@ -175,4 +175,4 @@ if __name__ == '__main__':
     API_URL = 'https://committees-api.parliament.uk/api/Publications?PublicationTypeIds=1&SortOrder=PublicationDateDescending&Take=50&StartDate=2024-07-01&CommitteeId=24'
     
 
-    generate_rss(API_URL, 'docs/defence-feed.xml')
+    generate_rss(API_URL, 'docs/feed.xml')
