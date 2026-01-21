@@ -1,63 +1,279 @@
 <?xml version="1.0" ?>
 <rss version="2.0">
   <channel>
-    <title>Defence Committee Reports (House of Commons)</title>
-    <link>https://committees.parliament.uk/committee/24/defence-committee/publications/reports-responses/</link>
-    <description>Latest reports from House of Commons Defence Select Committee</description>
-    <lastBuildDate>Fri, 16 Jan 2026 15:52:19 GMT</lastBuildDate>
+    <title>Committee Reports (House of Commons)</title>
+    <link>https://committees.parliament.uk/publications/reports-responses/</link>
+    <description>Latest reports from House of Commons Select Committees</description>
+    <lastBuildDate>Wed, 21 Jan 2026 09:42:44 GMT</lastBuildDate>
     <item>
-      <title>The UK contribution to European Security</title>
+      <title>UK-India Comprehensive Economic and Trade Agreement (CETA)</title>
+      <description>12th Report</description>
+      <author>Business and Trade Committee</author>
+      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
+      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmbeis/996/report.html</link>
+      <pubDate>Wed, 21 Jan 2026 00:01:00 GMT</pubDate>
+      <guid>51167</guid>
+    </item>
+    <item>
+      <title>Artificial intelligence in financial services</title>
+      <description>15th Report</description>
+      <author>Treasury Committee</author>
+      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
+      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmtreasy/684/report.html</link>
+      <pubDate>Tue, 20 Jan 2026 00:01:00 GMT</pubDate>
+      <guid>51128</guid>
+    </item>
+    <item>
+      <title>Forty-fourth Report - No Statutory Instruments Reported</title>
+      <description/>
+      <author>Statutory Instruments (Joint Committee)</author>
+      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
+      <link>https://publications.parliament.uk/pa/jt5901/jtselect/jtstatin/247/report.html</link>
+      <pubDate>Fri, 16 Jan 2026 11:00:00 GMT</pubDate>
+      <guid>51102</guid>
+    </item>
+    <item>
+      <title>The appointment of Emma Douglas as Chair of the Pensions Regulator</title>
       <description>6th Report</description>
-      <author>Defence Committee</author>
+      <author>Work and Pensions Committee</author>
       <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
-      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmdfence/520/report.html</link>
-      <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
-      <guid>50252</guid>
+      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmworpen/1610/report.html</link>
+      <pubDate>Fri, 16 Jan 2026 11:00:00 GMT</pubDate>
+      <guid>51113</guid>
     </item>
     <item>
-      <title>Defence in the Grey Zone</title>
-      <description>5th Report</description>
-      <author>Defence Committee</author>
+      <title>Financial sustainability of children’s care homes</title>
+      <description>61st Report</description>
+      <author>Public Accounts Committee</author>
       <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
-      <link>https://committees.parliament.uk/publications/48694/documents/255330/default/</link>
-      <pubDate>Wed, 09 Jul 2025 00:01:00 GMT</pubDate>
-      <guid>48694</guid>
+      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmpubacc/1233/report.html</link>
+      <pubDate>Fri, 16 Jan 2026 00:01:00 GMT</pubDate>
+      <guid>51065</guid>
     </item>
     <item>
-      <title>The Armed Forces Covenant</title>
+      <title>Register of Interests of Members’ Staff: transitional provisions</title>
+      <description>7th Report</description>
+      <author>Committee on Standards</author>
+      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
+      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmstandards/1629/report.html</link>
+      <pubDate>Fri, 16 Jan 2026 00:01:00 GMT</pubDate>
+      <guid>51117</guid>
+    </item>
+    <item>
+      <title>DWP follow-up: Autumn 2025</title>
+      <description>60th Report</description>
+      <author>Public Accounts Committee</author>
+      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
+      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmpubacc/1447/report.html</link>
+      <pubDate>Fri, 09 Jan 2026 00:01:00 GMT</pubDate>
+      <guid>50888</guid>
+    </item>
+    <item>
+      <title>Ministerial Statements and the Ministerial Code</title>
       <description>4th Report</description>
-      <author>Defence Committee</author>
+      <author>Public Administration and Constitutional Affairs Committee</author>
       <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
-      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmdfence/572/report.html</link>
-      <pubDate>Tue, 08 Apr 2025 00:01:00 GMT</pubDate>
-      <guid>47421</guid>
+      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmpubadm/1036/report.html</link>
+      <pubDate>Fri, 09 Jan 2026 00:01:00 GMT</pubDate>
+      <guid>51003</guid>
     </item>
     <item>
-      <title>The Global Combat Air Programme</title>
-      <description>3rd report</description>
-      <author>Defence Committee</author>
+      <title>Ministry of Justice follow-up: Autumn 2025</title>
+      <description>59th Report</description>
+      <author>Public Accounts Committee</author>
       <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
-      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmdfence/598/report.html</link>
-      <pubDate>Tue, 14 Jan 2025 00:01:00 GMT</pubDate>
-      <guid>46236</guid>
+      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmpubacc/1240/report.html</link>
+      <pubDate>Wed, 07 Jan 2026 00:01:00 GMT</pubDate>
+      <guid>50887</guid>
     </item>
     <item>
-      <title>Developing AI capacity and expertise in UK defence</title>
-      <description>2nd Report</description>
-      <author>Defence Committee</author>
+      <title>Forty-third Report - 3 Statutory Instruments Reported</title>
+      <description/>
+      <author>Statutory Instruments (Joint Committee)</author>
       <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
-      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmdfence/590/report.html</link>
-      <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
-      <guid>46167</guid>
+      <link>https://publications.parliament.uk/pa/jt5901/jtselect/jtstatin/241/report.html</link>
+      <pubDate>Fri, 19 Dec 2025 11:00:00 GMT</pubDate>
+      <guid>50845</guid>
     </item>
     <item>
-      <title>Service Accommodation</title>
+      <title>Environment in Focus</title>
+      <description>7th Report</description>
+      <author>Environmental Audit Committee</author>
+      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
+      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmenvaud/1310/report.html</link>
+      <pubDate>Fri, 19 Dec 2025 00:01:00 GMT</pubDate>
+      <guid>50872</guid>
+    </item>
+    <item>
+      <title>Forty-second Report - 1 Statutory Instrument Reported</title>
+      <description/>
+      <author>Statutory Instruments (Joint Committee)</author>
+      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
+      <link>https://publications.parliament.uk/pa/jt5901/jtselect/jtstatin/232/report.html</link>
+      <pubDate>Fri, 12 Dec 2025 11:00:00 GMT</pubDate>
+      <guid>50723</guid>
+    </item>
+    <item>
+      <title>Government services: Identifying costs</title>
+      <description>58th Report</description>
+      <author>Public Accounts Committee</author>
+      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
+      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmpubacc/1421/report.html</link>
+      <pubDate>Fri, 12 Dec 2025 00:01:00 GMT</pubDate>
+      <guid>50681</guid>
+    </item>
+    <item>
+      <title>Influencing Code of Conduct investigations</title>
+      <description>6th Report</description>
+      <author>Committee on Standards</author>
+      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
+      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmstandards/1571/report.html</link>
+      <pubDate>Thu, 11 Dec 2025 09:01:00 GMT</pubDate>
+      <guid>50721</guid>
+    </item>
+    <item>
+      <title>Charlie Maynard - Oral evidence</title>
+      <description/>
+      <author>Committee on Standards</author>
+      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
+      <link>https://committees.parliament.uk/publications/50700/documents/277778/default/</link>
+      <pubDate>Thu, 11 Dec 2025 09:00:00 GMT</pubDate>
+      <guid>50700</guid>
+    </item>
+    <item>
+      <title>Charlie Maynard - Written evidence</title>
+      <description/>
+      <author>Committee on Standards</author>
+      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
+      <link>https://committees.parliament.uk/publications/50719/documents/277782/default/</link>
+      <pubDate>Thu, 11 Dec 2025 09:00:00 GMT</pubDate>
+      <guid>50719</guid>
+    </item>
+    <item>
+      <title>Charlie Maynard</title>
+      <description>5th Report</description>
+      <author>Committee on Standards</author>
+      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
+      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmstandards/1570/report.html</link>
+      <pubDate>Thu, 11 Dec 2025 09:00:00 GMT</pubDate>
+      <guid>50720</guid>
+    </item>
+    <item>
+      <title>Dr Neil Shastri-Hurst</title>
+      <description>4th Report</description>
+      <author>Committee on Standards</author>
+      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
+      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmstandards/1569/report.html</link>
+      <pubDate>Thu, 11 Dec 2025 08:59:00 GMT</pubDate>
+      <guid>50709</guid>
+    </item>
+    <item>
+      <title>Dr Neil Shastri-Hurst - written evidence</title>
+      <description/>
+      <author>Committee on Standards</author>
+      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
+      <link>https://committees.parliament.uk/publications/50711/documents/277779/default/</link>
+      <pubDate>Thu, 11 Dec 2025 08:59:00 GMT</pubDate>
+      <guid>50711</guid>
+    </item>
+    <item>
+      <title>Dr Neil Shastri-Hurst - Oral evidence</title>
+      <description/>
+      <author>Committee on Standards</author>
+      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
+      <link>https://committees.parliament.uk/publications/50713/documents/277766/default/</link>
+      <pubDate>Thu, 11 Dec 2025 08:59:00 GMT</pubDate>
+      <guid>50713</guid>
+    </item>
+    <item>
+      <title>Access to the House of Commons and its Procedures</title>
       <description>1st Report</description>
-      <author>Defence Committee</author>
+      <author>Modernisation Committee</author>
       <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
-      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmdfence/406/report.html</link>
-      <pubDate>Wed, 11 Dec 2024 00:01:00 GMT</pubDate>
-      <guid>45927</guid>
+      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmmod/755/report.html</link>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
+      <guid>50674</guid>
+    </item>
+    <item>
+      <title>Large print - 1st Report - Access to the House of Commons and its Procedures</title>
+      <description/>
+      <author>Modernisation Committee</author>
+      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
+      <link>https://committees.parliament.uk/publications/50676/documents/277676/default/</link>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
+      <guid>50676</guid>
+    </item>
+    <item>
+      <title>Easy Read - 1st Report - Access to the House of Commons and its Procedures</title>
+      <description/>
+      <author>Modernisation Committee</author>
+      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
+      <link>https://committees.parliament.uk/publications/50677/documents/277669/default/</link>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
+      <guid>50677</guid>
+    </item>
+    <item>
+      <title>BSL report summary - 1st Report - Access to the House of Commons and its Procedures</title>
+      <description/>
+      <author>Modernisation Committee</author>
+      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
+      <link>https://youtu.be/m3auuK9j7WA</link>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
+      <guid>50678</guid>
+    </item>
+    <item>
+      <title>Audio summary - 1st Report - Access to the House of Commons and its Procedures</title>
+      <description/>
+      <author>Modernisation Committee</author>
+      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
+      <link>https://soundcloud.com/ukparliament/sets/modernisation-committee-report/s-XkvygAzYqxe?si=f62d7f699c664c4aa385a19679b75c63&amp;utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing</link>
+      <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
+      <guid>50679</guid>
+    </item>
+    <item>
+      <title>Government services: Generating income</title>
+      <description>57th Report</description>
+      <author>Public Accounts Committee</author>
+      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
+      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmpubacc/890/report.html</link>
+      <pubDate>Wed, 10 Dec 2025 00:01:00 GMT</pubDate>
+      <guid>50625</guid>
+    </item>
+    <item>
+      <title>Eleventh Report of Session 2024-26 - No Statutory Instruments Reported</title>
+      <description/>
+      <author>Statutory Instruments (Select Committee)</author>
+      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
+      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmstatin/294-xi/report.html</link>
+      <pubDate>Tue, 09 Dec 2025 11:00:00 GMT</pubDate>
+      <guid>50626</guid>
+    </item>
+    <item>
+      <title>Draft Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (Remedial) Order 2025: Second Report</title>
+      <description>9th Report</description>
+      <author>Human Rights (Joint Committee)</author>
+      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
+      <link>https://publications.parliament.uk/pa/jt5901/jtselect/jtrights/1438/report.html</link>
+      <pubDate>Tue, 09 Dec 2025 00:00:00 GMT</pubDate>
+      <guid>50624</guid>
+    </item>
+    <item>
+      <title>Forty-first Report - 1 Statutory Instrument Reported</title>
+      <description/>
+      <author>Statutory Instruments (Joint Committee)</author>
+      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
+      <link>https://publications.parliament.uk/pa/jt5901/jtselect/jtstatin/226/report.html</link>
+      <pubDate>Fri, 05 Dec 2025 11:00:00 GMT</pubDate>
+      <guid>50585</guid>
+    </item>
+    <item>
+      <title>Workforce planning to deliver clean, secure energy</title>
+      <description>6th Report</description>
+      <author>Energy Security and Net Zero Committee</author>
+      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
+      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmesnz/393/report.html</link>
+      <pubDate>Fri, 05 Dec 2025 00:01:00 GMT</pubDate>
+      <guid>50584</guid>
     </item>
   </channel>
 </rss>
