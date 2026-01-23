@@ -4,7 +4,25 @@
     <title>Committee Reports (House of Commons)</title>
     <link>https://committees.parliament.uk/publications/reports-responses/</link>
     <description>Latest reports from House of Commons Select Committees</description>
-    <lastBuildDate>Thu, 22 Jan 2026 23:48:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Jan 2026 04:10:35 GMT</lastBuildDate>
+    <item>
+      <title>Faulty energy efficiency installations</title>
+      <description>62nd Report</description>
+      <author>Public Accounts Committee</author>
+      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
+      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmpubacc/1229/report.html</link>
+      <pubDate>Fri, 23 Jan 2026 00:01:00 GMT</pubDate>
+      <guid>51210</guid>
+    </item>
+    <item>
+      <title>Draft Scotland Act 1998 (Modification of Schedule 5) Order 2026</title>
+      <description>5th Report</description>
+      <author>Scottish Affairs Committee</author>
+      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
+      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmscotaf/1652/report.html</link>
+      <pubDate>Fri, 23 Jan 2026 00:01:00 GMT</pubDate>
+      <guid>51224</guid>
+    </item>
     <item>
       <title>First 1000 days: a renewed focus</title>
       <description>5th Report</description>
@@ -265,24 +283,6 @@
       <link>https://publications.parliament.uk/pa/jt5901/jtselect/jtrights/1438/report.html</link>
       <pubDate>Tue, 09 Dec 2025 00:00:00 GMT</pubDate>
       <guid>50624</guid>
-    </item>
-    <item>
-      <title>Forty-first Report - 1 Statutory Instrument Reported</title>
-      <description/>
-      <author>Statutory Instruments (Joint Committee)</author>
-      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
-      <link>https://publications.parliament.uk/pa/jt5901/jtselect/jtstatin/226/report.html</link>
-      <pubDate>Fri, 05 Dec 2025 11:00:00 GMT</pubDate>
-      <guid>50585</guid>
-    </item>
-    <item>
-      <title>Workforce planning to deliver clean, secure energy</title>
-      <description>6th Report</description>
-      <author>Energy Security and Net Zero Committee</author>
-      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
-      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmesnz/393/report.html</link>
-      <pubDate>Fri, 05 Dec 2025 00:01:00 GMT</pubDate>
-      <guid>50584</guid>
     </item>
   </channel>
 </rss>
