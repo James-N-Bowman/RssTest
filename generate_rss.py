@@ -43,7 +43,7 @@ def split_report_title(input_string):
     if re.match(ordinal_pattern, left_part, re.IGNORECASE):
         return (left_part, right_part)
     else:
-        return ("", input_string)
+        return ("Some sort of description....", input_string)
 
 def create_rss_feed(feed_info, items):
     """
