@@ -4,7 +4,25 @@
     <title>Committee Reports (House of Commons)</title>
     <link>https://committees.parliament.uk/publications/reports-responses/</link>
     <description>Latest reports from House of Commons Select Committees</description>
-    <lastBuildDate>Tue, 27 Jan 2026 23:51:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Jan 2026 04:13:08 GMT</lastBuildDate>
+    <item>
+      <title>Increasing police productivity</title>
+      <description>63rd Report</description>
+      <author>Public Accounts Committee</author>
+      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
+      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmpubacc/1239/report.html</link>
+      <pubDate>Wed, 28 Jan 2026 00:01:00 GMT</pubDate>
+      <guid>51276</guid>
+    </item>
+    <item>
+      <title>Engine for growth: securing skills for transport manufacturing</title>
+      <description>5th Report</description>
+      <author>Transport Committee</author>
+      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
+      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmtrans/1223/report.html</link>
+      <pubDate>Wed, 28 Jan 2026 00:01:00 GMT</pubDate>
+      <guid>51283</guid>
+    </item>
     <item>
       <title>Forty-fifth Report - 4 Statutory Instruments Reported</title>
       <description>Some sort of description....</description>
@@ -265,33 +283,6 @@
       <link>https://soundcloud.com/ukparliament/sets/modernisation-committee-report/s-XkvygAzYqxe?si=f62d7f699c664c4aa385a19679b75c63&amp;utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing</link>
       <pubDate>Thu, 11 Dec 2025 00:00:00 GMT</pubDate>
       <guid>50679</guid>
-    </item>
-    <item>
-      <title>Government services: Generating income</title>
-      <description>57th Report</description>
-      <author>Public Accounts Committee</author>
-      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
-      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmpubacc/890/report.html</link>
-      <pubDate>Wed, 10 Dec 2025 00:01:00 GMT</pubDate>
-      <guid>50625</guid>
-    </item>
-    <item>
-      <title>Eleventh Report of Session 2024-26 - No Statutory Instruments Reported</title>
-      <description>Some sort of description....</description>
-      <author>Statutory Instruments (Select Committee)</author>
-      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
-      <link>https://publications.parliament.uk/pa/cm5901/cmselect/cmstatin/294-xi/report.html</link>
-      <pubDate>Tue, 09 Dec 2025 11:00:00 GMT</pubDate>
-      <guid>50626</guid>
-    </item>
-    <item>
-      <title>Draft Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (Remedial) Order 2025: Second Report</title>
-      <description>9th Report</description>
-      <author>Human Rights (Joint Committee)</author>
-      <enclosure type="image/png" url="https://committees.parliament.uk/dist/opengraph-card.png" length="123456"/>
-      <link>https://publications.parliament.uk/pa/jt5901/jtselect/jtrights/1438/report.html</link>
-      <pubDate>Tue, 09 Dec 2025 00:00:00 GMT</pubDate>
-      <guid>50624</guid>
     </item>
   </channel>
 </rss>
